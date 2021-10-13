@@ -1,0 +1,87 @@
+{
+    "items": [
+        {
+            "id": 1,
+          "name": "Red",
+          "rating": 4.5,
+          "image":"paunainen.jpg",
+          "price":2.5,
+          "promos": [
+              "Roses are red",
+              "Best color"
+            ]
+
+        },
+        {
+            "id": 2,
+          "name": "Blue",
+          "rating": 4.7,
+          "image":"sininen.jpg",
+          "price":2.5,
+          "promos": [
+              "Violets are blue",
+              "Best seller"
+            ]
+
+        },
+        {
+            "id": 3,
+          "name": "Yellow",
+          "rating": 4.2,
+          "image":"kelt.jpg",
+          "price":3.5,
+          "promos": [
+              "Mellow yellow"
+            ]
+        },
+        {
+            "id": 4,
+          "name": "Lime",
+          "rating": 3.1,
+          "image":"lime.jpg",
+          "price":1.24,
+          "promos": [
+              "Lime",
+              "Only Lime"
+            ]
+
+        },
+        {
+            "id": 5,
+          "name": "Black",
+          "rating": 0,
+          "image":"musta.jpg",
+          "price":0.0,
+          "promos": [
+              "Is not a color 0/10",
+              "101010101010100101"
+            ]
+
+        },
+        {
+            "id": 6,
+          "name": "Purple",
+          "rating": 2.3,
+          "image":"purp.jpg",
+          "price":10.99,
+          "promos": [
+              "Color of royalty",
+              "Most expensive"
+
+            ]
+
+        },
+        {
+            "id": 7,
+          "name": "Pink",
+          "rating": 3.9,
+          "image":"vaaleanpunainen.jpg",
+          "price":5.0,
+          "promos": [
+              "aaaaaaaaaa",
+              "bbbbbbbbbbb"
+            ]
+
+        }
+    ]
+}
