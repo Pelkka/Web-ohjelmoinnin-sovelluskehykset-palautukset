@@ -1,0 +1,20 @@
+.number{
+    padding: 6px;
+        font-size: 25px;
+        font-weight: 800;
+    }
+    .backside {
+      
+        width: 400px;
+        border-top: solid 1px ;
+        color: rgb(0, 0, 0);
+      margin-left: 50px;
+      background-color: white;
+        
+        
+    }
+    .header{
+        padding: 6px;
+        font-size: 18px;
+        font-weight: 700;
+    }

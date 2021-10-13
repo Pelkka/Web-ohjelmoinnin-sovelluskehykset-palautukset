@@ -1,0 +1,45 @@
+.headerbackground {
+    
+    background-color: rgb(8, 25, 77);
+    
+}
+
+.space{
+    margin-left: 5%;
+}
+
+.headerflex {
+   
+    display: flex;
+    color: white;
+    height: 70px;
+    align-items: center;
+    
+}
+
+.headerflex2 {
+    display: flex;
+
+   width: 80%;
+   margin-left: auto;
+   margin-right: auto;
+    color: white;
+    height: 70px;
+
+
+}
+.headerflex3 {
+    display: flex;
+    color: white;
+    height: 70px;
+    margin-left: 30%;
+    align-items: center;
+  
+
+}
+
+.helsinki {
+    
+    font-size: 20px;
+    font-weight: 700;
+}

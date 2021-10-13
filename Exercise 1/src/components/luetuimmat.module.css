@@ -1,0 +1,40 @@
+.newsbackground {
+    width: 700px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 50px;  
+    display: flex;
+   
+}
+.newsborder {
+  
+    border-top: solid 2px ;
+  
+}
+
+img {
+    margin-left: 50px;
+  height: 500px;
+
+}
+
+.lefttext {
+    font-size: 18px;
+    margin-left: 20px;
+  
+
+}
+.newsflexleft {
+    font-size: 20px;
+    color: rgb(0, 0, 100);
+    font-style: italic;
+    font-weight: 500;
+    
+  
+
+}
+.mainarticle {
+  margin-left: 20px;
+    font-size: 25px;
+    font-weight: 900;
+}
+
